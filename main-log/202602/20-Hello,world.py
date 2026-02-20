@@ -42,7 +42,7 @@ print("円周は")
 print(dia * 3.14)
 # 円周率も変数に　pi = 3.14
 
-global = 1
-print(global)
+# global = 1
+# print(global)
 # SyntaxError: invalid syntax
 # 変数名に使えないものがあるらしい（予約語）
